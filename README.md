@@ -24,5 +24,3 @@
 To install the application the "make install" command execution is required in "src" folder. The application to launch will be located in "build" folder of the project root.
 
 Uninstallation is done through execution "make uninstall" command. Thus, the executable file will be deleted from "build" folder.
-
-Execution "make dist" command will build application if it is not, and put it into "tar" archive. The archive will be located in "build" folder of the project root.
