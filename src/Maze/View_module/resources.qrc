@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/font">
+        <file>Resources/microsoftsansserif_hard.ttf</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>Resources/icon.icns</file>
+    </qresource>
+</RCC>
